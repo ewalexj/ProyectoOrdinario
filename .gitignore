@@ -1,0 +1,11 @@
+# Salida de Maven
+target/
+
+# Base de datos local (se crea al ejecutar)
+*.db
+
+# Archivos que genera Eclipse al importar (m2e los recrea desde el pom.xml)
+.project
+.classpath
+.settings/
+bin/
